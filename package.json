@@ -1,0 +1,17 @@
+{
+  "name": "worker-from-script-tag",
+  "version": "1.0.0",
+  "description": "For creating a web-worker from some inline Javascript in a SCRIPT tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:wvoelcker/worker-from-script-tag.git"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/wvoelcker/worker-from-script-tag"
+}
